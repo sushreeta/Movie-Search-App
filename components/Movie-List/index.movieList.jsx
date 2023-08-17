@@ -51,5 +51,5 @@ const styles = StyleSheet.create({
   font14: {fontSize: 14},
   title: {fontSize: 16, fontWeight: 'bold', marginTop: 8},
   image: {width: 150, height: 220},
-  itemContainer: {margginBottom: 20},
+  itemContainer: {marginBottom: 20},
 });
